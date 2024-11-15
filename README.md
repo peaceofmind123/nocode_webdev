@@ -93,6 +93,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-- **Email**: your.email@example.com  
+- **Email**: paudelashish1996@gmail.com  
 - **GitHub**: [Your GitHub Profile](https://github.com/peaceofmind123)  
 - **Twitter**: [@YourHandle](https://twitter.com/YourHandle)
