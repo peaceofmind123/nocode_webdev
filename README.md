@@ -96,3 +96,9 @@ This project is licensed under the [MIT License](LICENSE).
 - **Email**: paudelashish1996@gmail.com  
 - **GitHub**: [Your GitHub Profile](https://github.com/peaceofmind123)  
 - **Twitter**: [@YourHandle](https://twitter.com/YourHandle)
+
+
+#### License
+This project is licensed under a **Non-Commercial Use License**.  
+- Free for non-commercial use.  
+- Requires a paid license for commercial use.  
