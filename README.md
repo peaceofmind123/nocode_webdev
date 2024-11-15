@@ -96,5 +96,4 @@ This project is licensed under a **Non-Commercial Use License**.
 ## 📧 Contact
 
 - **Email**: paudelashish1996@gmail.com  
-- **GitHub**: [Your GitHub Profile](https://github.com/peaceofmind123)  
-- **Twitter**: [@YourHandle](https://twitter.com/YourHandle)
+- **GitHub**: [Ashish Paudel](https://github.com/peaceofmind123)  
