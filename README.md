@@ -89,7 +89,9 @@ If you find this project helpful, please **star the repository**. 😊
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under a **Non-Commercial Use License**.  
+- Free for non-commercial use.  
+- Requires a paid license for commercial use.
 
 ## 📧 Contact
 
